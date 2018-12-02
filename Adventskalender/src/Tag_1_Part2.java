@@ -32,10 +32,11 @@ public class Tag_1_Part2 {
 	}
 	
 	public static void main(String[] abc) throws FileNotFoundException, IOException
-	  {	
+	  {			 
 		 int ergebnis = 0;
 		 wertSchonErhaltenListe[0] = 1;	 
 		 initListe();
+
 		 
 		 boolean doppeltesErgebniserhalten = false;
 		 
@@ -84,7 +85,6 @@ public class Tag_1_Part2 {
 		 
 
 		 System.out.println(ergebnis);
-		 
 		 bufferedReader.close();
 	 } 
 }
