@@ -162,15 +162,5 @@ public class Tag_3_Part_2 {
 				 System.out.println("Feld das nicht uberlappt: " + (j+1));
 		 }
 		 
-		 
-		 
-	/*	 for(int a = 0; a < 1000; a++)
-		 {
-			 for(int b = 0; b < 1000; b++)
-					 System.out.print(feld[a][b]);
-			 System.out.println();
-		 }*/
-	 
-		
 	}
 }
